@@ -24,7 +24,7 @@ function doWhileLoop(array) {
 }
 
 do {
-  delete[-1]
+  delete.array
 } while (array.length > 0 && maybeTrue());
 return array;
 }
